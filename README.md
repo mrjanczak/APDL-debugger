@@ -1,4 +1,5 @@
-# APDL Debugger tool to verify flow control commands and keywords in APDL code; ver. 2.2 (based on ANSYS v.17)
+# APDL Debugger 
+tool to verify flow control commands and keywords in APDL code (based on ANSYS v.17)
 
 ## Description
 Tool generates file <tabulated.inp> with re-tabulated code according to its structure. 
